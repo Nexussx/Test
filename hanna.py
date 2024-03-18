@@ -32,15 +32,6 @@ Coded by Abdul Hannan Ansari
 Modified by SIAM AHMED
 """)
 
-def clear():
-   os.system('clear')
-   print(logo);lin3()
-
-def lin3():
-   print('\33[1;37m---------------------------------')
-def exit():
-  sys.exit()
-  
   def main_menu():
     os.system("clear")
     print(logo);lin3()
